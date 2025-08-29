@@ -286,7 +286,7 @@ h6 {
   height: 100vh;
   background-size: cover;
   position: relative;
-  background: repeating-linear-gradient(60deg, #DFD9D8, transparent 150px);
+  background: repeating-linear-gradient(60deg, green, transparent 150px);
 }
 
 @media (min-width: 992px) {
